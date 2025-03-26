@@ -1,2 +1,1 @@
 # ClashRule
-RiverZJC
