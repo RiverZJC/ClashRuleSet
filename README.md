@@ -1,2 +1,2 @@
 # ClashRule
-RiverZJC ClashRule
+RiverZJC
