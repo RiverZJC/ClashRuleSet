@@ -1,2 +1,4 @@
 # ClashRule
-[BlackMatrix7规则](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash)
+> Clash自用分流规则
+
+- [BlackMatrix7规则](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash)
