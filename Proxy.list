@@ -1,14 +1,18 @@
+# Gnome Extensions
+DOMAIN-SUFFIX,extensions.gnome.org
+# PicoVR
 DOMAIN-SUFFIX,picovr.com
-DOMAIN-SUFFIX,vrdesktop.net
+# DeoVR
 DOMAIN-SUFFIX,deovr.com
-DOMAIN-SUFFIX,sidequestvr.com
-DOMAIN-SUFFIX,byrutgame.org
-DOMAIN-SUFFIX,overwolf.com
-DOMAIN-SUFFIX,cheonhyeong.com
+# VD Link
+DOMAIN-SUFFIX,vrdesktop.net
+# WallHaven
 DOMAIN-SUFFIX,wallhaven.cc
-DOMAIN-SUFFIX,kitty.red
-DOMAIN-SUFFIX,mouse-sensitivity.com
-DOMAIN-SUFFIX,novelai.net
-DOMAIN-SUFFIX,topazlabs.com
-DOMAIN-SUFFIX,portableapps.com
+# OverWolf
+DOMAIN-SUFFIX,overwolf.com
+# NexusMods
 DOMAIN-SUFFIX,nexusmods.com
+# Mouse Sensitivity
+DOMAIN-SUFFIX,mouse-sensitivity.com
+# Kitty Network
+DOMAIN-SUFFIX,kitty.red
